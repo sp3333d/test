@@ -1,0 +1,5 @@
+http://phpmyadmin.co
+
+database server: den1.mysql1.gear.host
+Username: keaproject
+Password: Or6ihI-Hv_li
